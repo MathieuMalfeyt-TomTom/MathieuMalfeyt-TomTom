@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MathieuMalfeyt-TomTom
-- 👀 I’m interested in DevOps, Azure, Music Production
-- 🌱 I’m currently learning Azure Devops/Pipelines
+- 👀 I’m interested in DevOps, Azure, AWS
 - 💞️ I’m looking to collaborate on anything related to Azure / DevOps
 - 📫 How to reach me: just ping me on Slack
 
